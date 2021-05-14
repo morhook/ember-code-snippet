@@ -12,7 +12,7 @@
   "dependencies": {
     "broccoli-flatiron": "^0.0.0",
     "broccoli-merge-trees": "^1.0.0",
-    "broccoli-static-compiler": "^0.1.4",
+    "broccoli-static-compiler": "^0.2.2",
     "broccoli-writer": "^0.1.1",
     "es6-promise": "^1.0.0",
     "glob": "^4.0.4"
